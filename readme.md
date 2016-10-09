@@ -1,0 +1,1 @@
+When I made this code, I was working at Local Motors, and had to figure out some stuff with the stl file format. This was my practice working with stls.
